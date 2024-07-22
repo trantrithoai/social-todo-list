@@ -4,8 +4,8 @@ This project is a simple RESTful API for a social to-do list application built w
 
 **Requirements**
 
-Go 1.16 or higher
-MySQL
+- Go 1.16 or higher
+- MySQL
 
 **Items**
 
